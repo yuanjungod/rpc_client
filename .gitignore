@@ -1,0 +1,12 @@
+target/
+Makefile
+.DS_Store
+Thumbs.db
+*.swp
+*.pyc
+*.jar
+venv/
+.idea/
+*.iml
+tags
+logs/
